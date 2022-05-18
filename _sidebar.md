@@ -4,5 +4,4 @@
 * [First lesson](1lesson.md)
 * &nbsp;
 * **Cheatsheets**
-<!-- * [Basic Git commands](git-commands.md) -->
 * [Selectors](selectors.md)
