@@ -7,8 +7,8 @@
 | 3  | Automation intro                                   |      |
 | 4  | Basic Cypress commands                             |      |
 | 5  | Cypress on product website                         |      |
-| 6  | Cypress on product website                         |      |
-| 7  | Run Frontend locally                               |      |
+| 6  | Run Frontend locally                               |      |
+| 7  | Add data-testids                                   |      |
 
 ### Mentors
 
