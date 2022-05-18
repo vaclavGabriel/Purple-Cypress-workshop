@@ -12,6 +12,7 @@
   * git add
   * git commit 
   * git push
+  * git fetch
   * git pull
   * git merge
   * -> try it both in terminal and version control 
