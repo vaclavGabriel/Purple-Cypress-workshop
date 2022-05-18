@@ -2,8 +2,8 @@
 
 | #  | Topics                                             | Lecture date |
 |----|----------------------------------------------------|--------------|
-| 1  | VSCode, Git                                        | 18.5.2022 |
-| 2  | DevTools, HTML, CSS                                |      |
+| 1  | VSCode, Git                                        | 19.5.2022 |
+| 2  | DevTools, HTML, CSS                                |           |
 | 3  | Automation intro                                   |      |
 | 4  | Basic Cypress commands                             |      |
 | 5  | Cypress on product website                         |      |
