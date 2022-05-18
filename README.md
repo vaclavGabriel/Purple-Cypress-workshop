@@ -1,1 +1,1 @@
-# Purple-Cypress-workshop
+# Purple Cypress workshop 🎓
