@@ -16,6 +16,7 @@
 
 ### Participants
 
-*
-*
-*
+* First participant
+* Second participant
+* Third participant
+* Fourth participant
