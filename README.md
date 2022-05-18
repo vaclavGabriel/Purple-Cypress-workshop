@@ -1,6 +1,6 @@
 # Purple Cypress workshop 🎓
 
-| #  | Topics                                             | Lecture date |
+| #  | Topics                                             | Workshop date |
 |----|----------------------------------------------------|--------------|
 | 1  | VSCode, Git                                        | 19.5.2022 |
 | 2  | DevTools, HTML, CSS                                |           |
