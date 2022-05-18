@@ -16,3 +16,4 @@
   * git merge
   * -> try it both in terminal and version control 
   * -> https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
+* Add yourself as a workshop participant 
