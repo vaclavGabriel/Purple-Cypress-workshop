@@ -17,6 +17,6 @@
 ### Participants
 
 * First participant
-* Second participant
+* Kuba [`JakubMedPurple`](https://github.com/JakubMedPurple)
 * Third participant
 * Fourth participant
