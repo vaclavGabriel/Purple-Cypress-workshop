@@ -16,7 +16,7 @@
 
 ### Participants
 
-* First participant
+* Katy [`Katy`](https://github.com/kzubnarova)
 * Second participant
 * Third participant
 * Fourth participant
