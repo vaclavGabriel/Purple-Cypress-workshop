@@ -16,7 +16,7 @@
 
 ### Participants
 
+* Kuba [`JakubMedPurple`](https://github.com/JakubMedPurple)
 * Katy [`Katy`](https://github.com/kzubnarova)
-* Second participant
 * Third participant
 * Fourth participant
