@@ -12,7 +12,7 @@
 
 ### Mentors
 
-* Venca [`vaclavGabriel`](https://github.com/vaclavGabriel/)
+* Vencaaaa [`vaclavGabriel`](https://github.com/vaclavGabriel/)
 
 ### Participants
 
