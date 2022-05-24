@@ -1,3 +1,3 @@
 # Third lesson
 
-* Ghost inspector: https://app.ghostinspector.com/
+* Vyber si scánáře z vašeho projektu a ty budeme společně automatizovat 
