@@ -4,7 +4,7 @@
 Steps from Ghost Inspector:
 
 Assign plate into [class="input-strobe"]
-Double click on [class="enter-button"]
+Click on [class="enter-button"]
 Assign bento into [class="input-strobe"]
 Click on [class="enter-button enterhit"]
 Assign #fancy into [class="input-strobe"]
