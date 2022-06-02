@@ -19,6 +19,7 @@ Good enough for ~ 90 % of cases.
 * `img[src$=".gif"]` → `img`s with attribute `src` ending with `.gif`
 * `input:not(.touched)` → `input`s except those with class containing `touched`
 * `input:not([required])` → `input`s except those with attribute `required` (of any value)
+* `.class > a:nth-of-type(10)` -> Select the eleventh `a` element with the class `class` 
 
 `')`
 

@@ -1,21 +1,43 @@
 # Second lesson
 
-* HTML
-  * Basic HTML structure  
+#### Install Cypress 
 
-```
-The <!DOCTYPE html> declaration defines that this document is an HTML5 document
-The <html> element is the root element of an HTML page
-The <head> element contains meta information about the HTML page
-The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
-The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-The <h1> element defines a large heading
-The <p> element defines a paragraph
-```
+* Initialize npm 
+`npm init`
 
-* CSS	
-  * CSS Diner: https://flukeout.github.io/ 
+* Install dependencies 
+`npm i`
 
+* Install Cypress
+`npm install cypress --save-dev`
 
-* DevTools
-  * Chrome DevTools
+* Install dependencies 
+`npm i`
+
+#### Open Cypress 
+`npx cypress open` 
+* Check Cypress folder structure
+
+#### Cypress configuration file 
+* https://docs.cypress.io/guides/references/configuration#cypress-json
+* `config.json` 
+
+#### Basic Cypress commands 
+* https://docs.cypress.io/api/commands/get
+* `cy.get()`
+* `cy.visit()`
+* `cy.click()`
+* `cy.should()`
+* `cy.type()`
+* `cy.check()` / `cy.uncheck()`
+* `cy.clear()`
+* `cy.select()`
+* `cy.blur()`
+* `cy.focus()`
+* `cy.log()`
+
+#### Advanced Cypress commands 
+* `cy.request()`
+* `cy.intercept()`
+* `cy.then()`
+* `cy.within()`
