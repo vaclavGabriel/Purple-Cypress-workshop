@@ -1,6 +1,7 @@
 {
-    "baseUrl": "https://axiory.com/",
+    "baseUrl": "https://my-qbgzo-staging.axiory.com/",
     "watchForFileChanges": false,
     "viewportWidth": 1280,
-    "viewportHeight": 720
+    "viewportHeight": 720, 
+    "defaultCommandTimout": 15000
 }

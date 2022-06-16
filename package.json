@@ -17,5 +17,8 @@
   "homepage": "https://github.com/vaclavGabriel/Purple-Cypress-workshop#readme",
   "devDependencies": {
     "cypress": "^9.7.0"
+  },
+  "dependencies": {
+    "@testing-library/cypress": "^8.0.3"
   }
 }
