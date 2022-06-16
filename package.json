@@ -1,0 +1,21 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaclavGabriel/Purple-Cypress-workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaclavGabriel/Purple-Cypress-workshop/issues"
+  },
+  "homepage": "https://github.com/vaclavGabriel/Purple-Cypress-workshop#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
