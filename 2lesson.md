@@ -35,9 +35,3 @@
 * `cy.blur()`
 * `cy.focus()`
 * `cy.log()`
-
-#### Advanced Cypress commands 
-* `cy.request()`
-* `cy.intercept()`
-* `cy.then()`
-* `cy.within()`
